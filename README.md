@@ -83,3 +83,12 @@ Matplotlib is probably the best plotting library in existence right now
 [You can read csvs into python using numpy.Loadtxt](https://pythonspot.com/matplotlib-histogram/)
 
 I like matplotlib over plotly. plotly is good for pandas.
+
+### How to animate
+
+[how to make a data visualization like this?](https://m.youtube.com/watch?v=EzP-S8jcDqo)
+
+seems like something that was made using powerpoint animations or something. matplotlib animation.
+
+look at d3
+
